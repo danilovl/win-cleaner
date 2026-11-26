@@ -1,0 +1,10 @@
+# build output
+bin/
+obj/
+*.exe
+*.pdb
+
+# local tooling
+.claude/settings.local.json
+.vs/
+.idea/
